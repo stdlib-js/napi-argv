@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "C utilities for retrieving Node-API add-on callback arguments.",
   "license": "Apache-2.0",
   "author": {
@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-napi-status-ok": "^0.1.1",
-    "@stdlib/utils-library-manifest": "^0.1.1"
+    "@stdlib/assert-napi-status-ok": "^0.2.0",
+    "@stdlib/utils-library-manifest": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.1.1",
